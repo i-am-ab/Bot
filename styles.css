@@ -129,7 +129,7 @@
 
   @media screen and (max-width: 500px) {
     body .card {
-        height: 115vw;
+        height: 100vw;
         width: 50vw;
         background-color: white;
         margin-left: 25vw;
@@ -137,7 +137,7 @@
         box-shadow: 2vw 2vw 12vw 3vw #ccc;
     }
     body .card #message-section {
-        height: 99vw;
+        height: 89vw;
         font-size: 1.7vw;
         padding: 0 2.5vw;
         overflow-y: auto;
