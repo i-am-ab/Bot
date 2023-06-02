@@ -129,20 +129,21 @@
 
   @media screen and (max-width: 500px) {
     body .card {
-        height: 122vw;
-        width: 45vw;
+        height: 115vw;
+        width: 50vw;
         background-color: white;
         margin-left: 25vw;
         margin-top: 15vw;
         box-shadow: 2vw 2vw 12vw 3vw #ccc;
     }
     body .card #message-section {
-        height: 100vw;
+        height: 95vw;
         font-size: 1.5vw;
         padding: 0 2.5vw;
         overflow-y: auto;
     }
     body .card #input-section input {
+        font-size: 1.5vw;
         height: 5vw;
         width: 31vw;
     }
