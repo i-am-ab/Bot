@@ -129,16 +129,16 @@
 
   @media screen and (max-width: 500px) {
     body .card {
-        height: 102vw;
+        height: 122vw;
         width: 45vw;
-        font-size: 1.4vw;
         background-color: white;
         margin-left: 25vw;
         margin-top: 15vw;
         box-shadow: 2vw 2vw 12vw 3vw #ccc;
     }
     body .card #message-section {
-        height: 90vw;
+        height: 100vw;
+        font-size: 1.5vw;
         padding: 0 2.5vw;
         overflow-y: auto;
     }
